@@ -1,0 +1,22 @@
+FRAMESET tag
+
+A frameset tag defines n set of frames that appear in a web browser window.
+
+The FRAMESET tag contains one or more frmae tags that eacg describes a frame.
+
+An html document that contains a FRAMESET contains a FRAEMESET tag cannot contain a body 
+a frameset can specify that its frames
+
+<frameset cols = "columnwidthlist" tows = "rowheightlist" border = "pixwidth" bordercolor = "color" frameborder = "yes" | "no">
+</frameset>
+
+You must apply atleast one of the cols or rows attributes.
+
+?FRAME tag
+
+The frame tag creates a frame, which is an idividual, independently scrollable region of a web browser.
+
+-The frame tag must be used within frameset tag.
+
+<frame frameborder = "yes" | "no" marginheight = "marginheight" marginwidth = "matginwidth" name = "framename" noresize 
+       scrolling = "yes" | "no" | "auto" src = "url">

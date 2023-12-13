@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+
+  <title> Biodata form</title>
+ 
+</head>
+
+<body>
+
+
+   <form> 
+       Personal Details
+    
+	<p>
+	   <label>
+	    salutation
+		 
+		 <br />
+		 <select name = "salutation">
+		    <option>-----None----</option>
+			<option>Mr.</option>
+			<option>Ms.</option>
+			<option>Mrs.</option>
+			<option>Dr.</option>
+			<option>Prof.</option>
+		 </select>
+		 
+		</label>
+	</p>
+	
+	<p>
+	    <label>First name : <input name = "firstname" /></label>
+	</p>
+	
+	<p>
+	    <label>Last name : <input name = "lastname" /></label>
+	</p>		
+	
+	<p>
+	
+	  Gender :
+	  
+	  <label><input type = "radio" name = "gender" value = "male" /> Male </label>
+	  <label><input type = "radio" name = "gender" value = "female" /> Female </label>
+	  
+	</p>
+	
+	<p>
+	   <label>Email :
+       <input type = "email" name = "email" />
+	   </label>
+	</p>
+	
+	<p>
+	   <label>Date of birth :
+	   <input type = "date" name = "birthdate" />
+	   </label>
+	</p>
+	
+	<p>
+	   <label>Address :
+	   <br />
+       <textarea name = "address" cols = "30" rows = "3"></textarea>
+       </label>
+	</p>
+	
+	<p>
+	   <label for = "myfile">Select an image : </label>
+       <input type = "file"  id = "myfile" name = "myfile" />
+	   </label>
+	</p>
+	
+	<p>
+	   <button type = "submit">Submit</button>
+	</p>
+	
+    
+</body>
+</html>

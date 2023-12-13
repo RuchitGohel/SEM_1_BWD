@@ -1,0 +1,71 @@
+<input checkbox>
+
+syntax : <input type = "checkbox" checked   name = "name" value = "checked value">
+
+
+example : <p>specify your music preferences </p>
+<br><input type = "checkbox" name = "music1" checked> R&B
+<br><input type = "checkbox" name = "music2" checked> HIP-HOP
+
+RADIO BUTTON
+
+<input type = "radio" checked  name = "name" value = "buttonvalue">
+
+example :
+
+<p>Course 
+<br><input type = "radio" checked name = "course" value = "BCom" checked> Bachelor of commerce
+<br><input type = "radio" checked name = "course" value = "BTech" checked> Bachelor of Technology
+</p>
+
+
+IMAGE
+
+<input type = "image" name = "name" src = "location">
+
+example : 
+
+
+
+
+
+SELECTION 
+
+<select name = "selectname" multiple size = "listlength">
+<option>........</option>
+</select>
+
+example :
+
+<select name = "city" multiple size = "4">
+<option selected> Rajkot
+<option> Surat
+<option> Ahmedabad
+<option> Jamnagar
+</select>
+
+
+
+TEXTAREA
+
+<text area cols = "columns" name = "name" rows = "rows">
+
+texttodisplay
+</textarea>
+
+example : 
+
+<form>
+<text area cols = "5" name = "review" rows = "5">
+df;ldg h;h ghlghlghgh hgfhgfhg  g
+hghgfhg fgfghghdfglkfgkhfdkljghfg
+fhglfhgjgkhgfkhgfdhkhghfhgfkghkhg
+hjkfghkfghkfddhhgjkhfghhlkhghfgkl
+</textarea>
+</form>
+
+
+<label>
+
+
+The label tag defines label for form elements.
