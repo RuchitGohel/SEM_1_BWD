@@ -1,0 +1,35 @@
+<html>
+<head>
+ <title>
+  Diploma Courses
+ </title>
+
+<body style="background-color: ;">
+ 
+ <img src="D:\Ruchit\SEM_1\BWD\HW_University_Courses_7212\download.jpg" alt="Marwadi University" width="50"
+  height="70">
+ <a href="file:///D:/Ruchit/SEM_1/BWD/HW_University_Courses_7212/University_Homepage.html">
+ <b style="color:bisque; font-size:75px;">Marwadi University</b></a><br><br><br>
+ 
+ <img src="D:\Ruchit\SEM_1\BWD\HW_University_Courses_7212\download (1).jpg" alt="Marwadi University Campus"
+    style="float: right; width:800px; height:400px;">
+ 
+  <ul style="font-size:30px; color:bisque;">
+  <li>Courses</li>
+  </ul>
+   
+   <ul style="list-style-type: square; font-size: 20px;">
+    <li>Diploma</li><br>
+   </ul>
+   <ol type="a" style="font-size:15px;">
+   <li>Information and Communication Technology</li>
+    <li>Mechanical Engineering</li>
+    <li>Civil Engineering</li>
+    <li>Chemical Engineering</li>
+    <li>Electrical Engineering</li>
+	<li>Automobile Engineering</li>
+   </ol> 
+
+
+</body>
+</html>

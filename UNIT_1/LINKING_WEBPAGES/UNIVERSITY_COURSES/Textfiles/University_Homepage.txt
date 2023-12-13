@@ -1,0 +1,33 @@
+<html>
+<head>
+ <title>
+  Marwadi University
+ </title>
+
+<body style="background-color: ;">
+ 
+ <img src="D:\Ruchit\SEM_1\BWD\HW_University_Courses_7212\download.jpg" alt="Marwadi University" width="50"
+  height="70">
+ <a href="file:///D:/Ruchit/SEM_1/BWD/HW_University_Courses_7212/University_Homepage.html">
+ <b style="color:bisque; font-size:75px;">Marwadi University</b></a><br><br><br>
+ 
+ <img src="D:\Ruchit\SEM_1\BWD\HW_University_Courses_7212\download (1).jpg" alt="Marwadi University Campus"
+    style="float: right; width:800px; height:400px;">
+ 
+  <ul style="font-size:30px; color:bisque;">
+  <li>Courses</li>
+  </ul>
+   
+   <ol type="A" style="font-size: 20px;">
+    <li>Diploma</li><br>
+    <li>Graduation</li><br>
+    <li>Post-Graduation</li><br>
+    <li>Doctoral(PhD)</li><br>
+    <li>Junior Research Fellowship</li><br>
+    <li>Certifications</li>
+   </ol>
+ 
+
+
+</body>
+</html>
