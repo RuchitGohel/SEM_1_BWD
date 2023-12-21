@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   div{
+      height: 100px;
+	width: 50px;
+	background-color: white;
+	position: relative;
+	animation-name: example;
+	animation-duration: 15s;
+   }
+   @keyframes example{
+      0% {background-color: white; left: 0px; top: 0px;}
+	25% {background-color: white; left: 200px; top: 0px;}
+	50% {background-color: white; left: 200px; top: 200px;}
+	75% {background-color:white; left: 200px; top: 0px;}
+	100% {background-color: white; left: 0px; top: 0px;}
+   }
+  </style>
+ </head>
+ <body>
+  <div>
+   <svg width="200" height="200">
+    <circle cx="70" cy="80" r="30" 
+	 stroke="green" 
+	 stroke-width="5"
+	 fill="bisque"/>
+   </svg>
+  </div>
+ </body>
+</html>

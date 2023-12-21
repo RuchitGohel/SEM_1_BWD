@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   #grad{
+    height: 500px;
+	width: 500px;
+	background-image: linear-gradient(to right, red, yellow, blue);
+   }
+  </style>
+ </head>
+ <body>
+  <div id="grad" style="text-align:center;">Left to right gradient</div>
+ </body>
+</html>
