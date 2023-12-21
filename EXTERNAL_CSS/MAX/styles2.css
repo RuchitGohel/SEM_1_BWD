@@ -1,0 +1,21 @@
+body{
+ background-color: darkblue;
+}
+h1{
+ font-family: helvetica;
+ color: white;
+ font-size: 2.5em;
+}
+.colorful{
+ font-family: arial;
+ color: bisque;
+ font-size: 1.5em;
+}
+table{
+ border: 2px solid yellow;
+ width: 20%;
+ color: white;
+}
+tr, th, td{
+ border: 2px solid white;	
+}

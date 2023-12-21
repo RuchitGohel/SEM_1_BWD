@@ -1,0 +1,15 @@
+body{
+ background-color: maroon;
+}
+h1{
+ color: bisque;
+ font-size: 1.5em;
+}
+#intro{
+ color: coral;
+ font-size: 1.2em;
+}
+.colorful{
+ color: yellow;
+ font-size: 1em;
+}
